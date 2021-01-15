@@ -1,5 +1,20 @@
 ![mpv logo](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png)
+# cmake 
+add cmake ,this cmaketext is configure --disable=lua ,please 
 
+sudo apt build-dep mpv 
+
+mkdir build 
+
+cd build 
+
+cmake ..
+
+make 
+
+curent ,not have install 
+
+you can using clion qtcreator ,other c/c++ IDE
 # mpv
 
 
