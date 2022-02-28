@@ -245,7 +245,7 @@ list(APPEND mpv_srcs
     misc/json.c
     misc/charset_conv.c
     osdep/main-fn-unix.c
-    config.h
+    build/config.h
     )
 #选择动态库还是静态图
 #SHARED
